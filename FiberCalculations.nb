@@ -1,3 +1,5 @@
+(* This is a Mathematica notebook. Do not try to read it in Github. Mathematica or a reader is required. *)
+
 (* Content-type: application/vnd.wolfram.mathematica *)
 
 (*** Wolfram Notebook File ***)
